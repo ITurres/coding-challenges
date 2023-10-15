@@ -1,0 +1,66 @@
+[submodule "JavaScript/anagram-ITurres"]
+	path = JavaScript/anagram-ITurres
+	url = https://github.com/microverse-students/anagram-ITurres
+[submodule "palindrome-ITurres"]
+	path = palindrome-ITurres
+	url = https://github.com/microverse-students/palindrome-ITurres
+[submodule "JavaScript/repeat-a-string-ITurres"]
+	path = JavaScript/repeat-a-string-ITurres
+	url = https://github.com/microverse-students/repeat-a-string-ITurres
+[submodule "JavaScript/sum-all-odd-fibonacci-numbers-ITurres"]
+	path = JavaScript/sum-all-odd-fibonacci-numbers-ITurres
+	url = https://github.com/microverse-students/sum-all-odd-fibonacci-numbers-ITurres
+[submodule "JavaScript/linked-lists-ITurres"]
+	path = JavaScript/linked-lists-ITurres
+	url = https://github.com/microverse-students/linked-lists-ITurres
+[submodule "JavaScript/linked-lists-next-step-ITurres"]
+	path = JavaScript/linked-lists-next-step-ITurres
+	url = https://github.com/microverse-students/linked-lists-next-step-ITurres
+[submodule "JavaScript/queue-ITurres"]
+	path = JavaScript/queue-ITurres
+	url = https://github.com/microverse-students/queue-ITurres
+[submodule "JavaScript/min-stack-ITurres"]
+	path = JavaScript/min-stack-ITurres
+	url = https://github.com/microverse-students/min-stack-ITurres
+[submodule "JavaScript/stack-ITurres"]
+	path = JavaScript/stack-ITurres
+	url = https://github.com/microverse-students/stack-ITurres
+[submodule "JavaScript/balanced-brackets-ITurres"]
+	path = JavaScript/balanced-brackets-ITurres
+	url = https://github.com/microverse-students/balanced-brackets-ITurres
+[submodule "JavaScript/binary-search-ITurres"]
+	path = JavaScript/binary-search-ITurres
+	url = https://github.com/microverse-students/binary-search-ITurres
+[submodule "JavaScript/fizzbuzz-ITurres"]
+	path = JavaScript/fizzbuzz-ITurres
+	url = https://github.com/microverse-students/fizzbuzz-ITurres
+[submodule "JavaScript/sets-ITurres"]
+	path = JavaScript/sets-ITurres
+	url = https://github.com/microverse-students/sets-ITurres
+[submodule "JavaScript/hash-tables-ITurres"]
+	path = JavaScript/hash-tables-ITurres
+	url = https://github.com/microverse-students/hash-tables-ITurres
+[submodule "JavaScript/recursion-ITurres"]
+	path = JavaScript/recursion-ITurres
+	url = https://github.com/microverse-students/recursion-ITurres
+[submodule "JavaScript/tree-traversal-ITurres"]
+	path = JavaScript/tree-traversal-ITurres
+	url = https://github.com/microverse-students/tree-traversal-ITurres
+[submodule "JavaScript/trees-ITurres"]
+	path = JavaScript/trees-ITurres
+	url = https://github.com/microverse-students/trees-ITurres
+[submodule "JavaScript/binary-search-tree-ITurres"]
+	path = JavaScript/binary-search-tree-ITurres
+	url = https://github.com/microverse-students/binary-search-tree-ITurres
+[submodule "Ruby/is-it-a-binary-search-tree-ITurres"]
+	path = Ruby/is-it-a-binary-search-tree-ITurres
+	url = https://github.com/microverse-students/is-it-a-binary-search-tree-ITurres
+[submodule "C/C-problem-solving"]
+	path = C/C-problem-solving
+	url = https://github.com/ITurres/C-problem-solving
+[submodule "Python/Python-problem-solving"]
+	path = Python/Python-problem-solving
+	url = https://github.com/ITurres/Python-problem-solving
+[submodule "Python/Python-SQL-problem-solving"]
+	path = Python/Python-SQL-problem-solving
+	url = https://github.com/ITurres/Python-SQL-problem-solving

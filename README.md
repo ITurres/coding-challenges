@@ -44,11 +44,26 @@ Collaborating with others, setting clear goals, and sharing knowledge are all es
         <img src="https://skillicons.dev/icons?i=js"/>
       </a>
     </li>
-    <!-- <li>
+    <li>
       <a href="https://www.ruby-lang.org/en/">
         <img src="https://skillicons.dev/icons?i=ruby"/>
       </a>
-    </li> -->
+    </li>
+    <li>
+      <a href="https://www.w3schools.com/c/c_intro.php">
+        <img src="https://skillicons.dev/icons?i=c"/>
+      </a>
+    </li>
+    <li>
+      <a href="https://www.python.org/">
+        <img src="https://skillicons.dev/icons?i=python"/>
+      </a>
+    </li>
+    <li>
+      <a href="https://www.sqlite.org/index.html">
+        <img src="https://skillicons.dev/icons?i=sqlite"/>
+      </a>
+    </li>
   </ul>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
