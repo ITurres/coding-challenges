@@ -118,7 +118,7 @@ Example commands:
         <img src="https://skillicons.dev/icons?i=swift"/>
       </a>
     </li>
-  <ul/>
+  </ul>
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
