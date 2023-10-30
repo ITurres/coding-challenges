@@ -20,6 +20,7 @@
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
+- [🀄️ Future Languages](#future-languages)
 - [👥 Authors](#authors)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
@@ -107,6 +108,18 @@ Example commands:
   gh repo clone ITurres/coding-challenges
 ```
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### 🀄️ Future Languages <a name="future-languages"></a>
+
+  <ul>
+    <li>
+      <a href="https://www.swift.org/">
+        <img src="https://skillicons.dev/icons?i=swift"/>
+      </a>
+    </li>
+  <ul/>
+  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
