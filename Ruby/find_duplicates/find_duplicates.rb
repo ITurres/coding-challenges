@@ -37,20 +37,16 @@ def find_duplicates_binary(arr1, arr2)
   end
 end
 
-def binary_search(arr, num)
-  begin_loop = 0
-  end_loop = arr.length - 1
+def binary_search(arr, num, begin_loop = 0, end_loop = arr.length - 1)
+  return -1 if begin_loop > end_loop || arr.length.zero?
 
-  while begin_loop <= end_loop
-    middle = (begin_loop + (end_loop - begin_loop) / 2).floor
-
-    if arr[middle] == num
-      return middle
-    elsif arr[middle] < num
-      begin_loop = middle + 1
-    else
-      end_loop = middle - 1
-    end
+  mid = ((begin_loop + end_loop) / 2).to_i
+  if arr[mid] == num
+    return mid
+  elsif arr[mid] > num
+    return binary_search(arr, num, begin_loop, mid - 1)
+  else
+    return binary_search(arr, num, mid + 1, end_loop)
   end
 end
 
