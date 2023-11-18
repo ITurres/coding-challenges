@@ -110,6 +110,8 @@ Example commands:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+---
+
 ### 🀄️ Future Languages <a name="future-languages"></a>
 
   <ul>
